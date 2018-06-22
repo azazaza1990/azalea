@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+            </head>
+    <body>
+        
+        <script>
+            
+            var a = prompt ('сюда иди! мне нужно 10 btc', "сколько у тебя есть btc на freewallet?");
+            var b = prompt ('а если поискать?', "сколько btc на hitbtc?");
+            
+            var result
+            result = (+a + +b < 4) ? 'мало, вали' : 'норм, гопстоп '
+            alert (result)
+            alert ('вас гопнули. игра закончилась')
+            </script>
+        <br> <br> <center> не стоило связываться с гопниками.
+        
+    </body>
+</html>
